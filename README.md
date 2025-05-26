@@ -31,9 +31,6 @@ Miguel Freni 👋</a></h1>
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,linux,windows,bash,powershell,firebase,supabase,cloudflare,mysql,postgres,mongodb,nodejs,express,laravel,php,py,html,css,js,ts,bootstrap,sass,react,angular,nextjs)](https://skillicons.dev)
-
-
 🎨 Diseño y Prototipado <br>
 [![My Skills](https://skillicons.dev/icons?i=figma,)](https://skillicons.dev)
 
@@ -52,6 +49,5 @@ Miguel Freni 👋</a></h1>
 ⚙️ Backend <br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,laravel,php,py, )](https://skillicons.dev)
 
-🌐 Frontend
-🌐 Frontend
+🌐 Frontend <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,react,angular,nextjs,)](https://skillicons.dev)
