@@ -1,20 +1,17 @@
 
 
 <div>
-🔴🟡🟢
-
-<br>
-
+🔴🟡🟢<br>
 </div>
 
 
-<h1 align="center">Hi, I'm <a href="https://github.com/Miguel-Freni" target="blank">
+<h1 align="center">Hola, Soy <a href="https://github.com/Miguel-Freni" target="blank">
 Miguel Freni 👋</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+<h3 align="center">Desarrollador Web fullstack & Multiplataforma &#69;&#83;</h3>
 
 
 
-<br><br>
+<br>
 
 - 🛜 `Técnico de Sistemas Microinformáticos y Redes`
 - 🧵 Certificación en Programación Web con una calificación de `9,8`, otorgada por la `Fundación General de la Universidad de Salamanca`.
