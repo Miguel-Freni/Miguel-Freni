@@ -36,7 +36,7 @@ Miguel Freni 👋</a></h1>
 
 
 ☁️ Cloud y Servicios  <br>
-[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,cloudflare, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,cloudflare,vercel, )](https://skillicons.dev)
 
 
 🗄️ Bases de Datos <br>
