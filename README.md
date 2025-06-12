@@ -15,9 +15,9 @@ Miguel Freni 👋</a></h1>
 
 - 🛜 `Técnico de Sistemas Microinformáticos y Redes`
 - 🧵 Certificación en Programación Web con una calificación de `9,8`, otorgada por la `Fundación General de la Universidad de Salamanca`.
-- 👨‍💻 Profesor de Informática en `Inserta Andalucía`, impartiendo clases a personas mayores de 65 años y personas con discapacidad.
+- 👨‍💻 Profesor de Informática en `Inserta Andalucía`, impartiendo clases a `personas mayores de 65 años` y `personas con discapacidad`.
 - 💻 `Desarrollador Web Freelance`, diseñando y programando sitios web corporativos para diversos comercios.
-- 🗃️ Desarrollador Web en `OnlyPharma`, trabajando con WordPress, Elementor y Prestashop, además de la creación de extensiones personalizadas en PHP y la gestión de productos en eCommerce.
+- 🗃️ Desarrollador Web en `OnlyPharma`, trabajando con `WordPress`, `Elementor` y `Prestashop`, además de la creación de extensiones personalizadas en `PHP` y la gestión de productos en `eCommerce`.
 - 📬 Abierto a buscar nuevos restos [contacto](mailto:contacto@miguelfreni.com).
 - ⌛ puedes visitar [mi web](https://miguelfreni.com).
 <br>
