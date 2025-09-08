@@ -18,7 +18,7 @@ Miguel Freni 👋</a></h1>
 - 👨‍💻 Profesor de Informática en `Inserta Andalucía`, impartiendo clases a `personas mayores de 65 años` y `personas con discapacidad`.
 - 💻 `Desarrollador Web Freelance`, diseñando y programando sitios web corporativos para diversos comercios.
 - 🗃️ Desarrollador Web en `OnlyPharma`, trabajando con `WordPress`, `Elementor` y `Prestashop`, además de la creación de extensiones personalizadas en `PHP` y la gestión de productos en `eCommerce`.
-- 📬 Abierto a buscar nuevos restos [contacto](mailto:contacto@miguelfreni.com).
+- 📬 Abierto a buscar nuevos retos [contacto](mailto:contacto@miguelfreni.com).
 - ⌛ puedes visitar [mi web](https://miguelfreni.com).
 <br>
 
